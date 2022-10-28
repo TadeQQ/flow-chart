@@ -1,0 +1,15 @@
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/bin/Debug/net6.0/flow-chart
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/bin/Debug/net6.0/flow-chart.deps.json
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/bin/Debug/net6.0/flow-chart.runtimeconfig.json
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/bin/Debug/net6.0/flow-chart.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/bin/Debug/net6.0/flow-chart.pdb
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.csproj.AssemblyReference.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.AssemblyInfoInputs.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.AssemblyInfo.cs
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.csproj.CoreCompileInputs.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/refint/flow-chart.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.pdb
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/flow-chart.genruntimeconfig.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/flow-chart/obj/Debug/net6.0/ref/flow-chart.dll
