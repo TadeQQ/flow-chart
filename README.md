@@ -2,7 +2,7 @@
 
 Program wczytuje ze standardowego wejścia 3 liczby całkowite, kolejno x, y, z, oddzielone pojedynczą spacją oraz wypisuje na standardowe wyjście ciąg liter, działając zgodnie z poniższym diagramem.
 
-            ![algo-niestrukturalny](https://user-images.githubusercontent.com/88510018/204128867-b967e35b-f2ca-4a77-a292-aa907f94c429.png)
+   ![algo-niestrukturalny](https://user-images.githubusercontent.com/88510018/204128867-b967e35b-f2ca-4a77-a292-aa907f94c429.png)
 
 ## Wariant 1
 Rozwiąż zadanie opisane w karcie info wykorzystując instrukcję goto.
